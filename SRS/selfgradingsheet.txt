@@ -1,0 +1,4 @@
+Linh Duong (duong172): Introduction, Overall Description, System Features
+Thomas Haupert (haupe033): Introduction, Overall Description, External Interface Requirements
+Henry Huynh (huynh407): Introduction, Other Nonfunctional Requirements, Use Cases
+Roshina Mohamed Rafee (moha0797): Introduction, Overall Description, Use Cases
