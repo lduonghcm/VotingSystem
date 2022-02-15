@@ -17,4 +17,4 @@ In this project, we implement 2 types of Process Model (Waterfall and Agile-Scum
 
 Waterfall model is applied in Project 1 folder. Agile (Scum) is applied in Project 2 folder.
 
-This project is my demonstration of understanding in 2 important Software Engineering Models: Waterfall and Agile - Scum.
+This project is my demonstration of understanding in 2 important Software Engineering Models: Waterfall and Agile - Scrum.
