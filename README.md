@@ -13,8 +13,8 @@ Roshina Mohamed Rafee (moha0797@umn.edu)
 ## Description
 This is a simulation for the Voting System which supports Open Party List and Instant Runoff Election Types. This project was done in the span of 4 months (January 2021 - May 2021). 
 
-In this project, we implement 2 types of Process Model (Waterfall and Agile-Scum). 
+In this project, we implement 2 types of Process Model (Waterfall and Agile-Scrum). 
 
-Waterfall model is applied in Project 1 folder. Agile (Scum) is applied in Project 2 folder.
+Waterfall model is applied in Project 1 folder. Agile (Scrum) is applied in Project 2 folder.
 
 This project is my demonstration of understanding in 2 important Software Engineering Models: Waterfall and Agile - Scrum.
